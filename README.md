@@ -5,4 +5,6 @@
 
 ## Demo
 
-![VHDL Simon Game Demo](demo.gif)
+<p align="center">
+![VHDL Simon Game Demo](demo/demo.gif)
+</p>
