@@ -5,4 +5,4 @@
 
 ## Demo
 
-<center>demo/demo.gif</center>
+<center><img title="VHDL Simon Game Demo" src="demo/demo.gif" alt="VHDL Simon Game Demo"></center>
