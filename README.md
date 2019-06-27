@@ -5,4 +5,4 @@
 
 ## Demo
 
-![VHDL Simon Game Demo](demo/demo.gif)
+<center>demo/demo.gif</center>
