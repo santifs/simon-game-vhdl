@@ -1,12 +1,12 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
+-- Company: University of Seville
+-- Engineer: Santiago Fernandez Scagliusi
 -- 
 -- Create Date:    19:48:39 05/25/2019 
--- Design Name: 
+-- Design Name:    Main
 -- Module Name:    simon_dice - Behavioral 
--- Project Name: 
--- Target Devices: 
+-- Project Name:   Simon Game
+-- Target Devices: Nexys 4 DDR
 -- Tool versions: 
 -- Description: 
 --
